@@ -1,17 +1,20 @@
-# 💰 Expense Tracker - Group Project
+## 💵 JAMERO'S README.md
 
-A simple and friendly expense tracking application for our Java OOP course!  
-Track your spending, record income, and understand where your money goes. 💸
+# 💰 Income Manager Guide
 
+## My Mission:
+Create the income tracking part of our app!
 
----
+## What I'll Build:
+- A form to add income entries
+- A list to view income history
+- Income categories (Salary, Freelance, etc.)
+- Total income calculation
 
-## 🎯 What We're Building
+## This Week's Tasks:
+1. Create `Income.java` class
+2. Make `AddIncome.java` form  
+3. Create `ViewIncome.java` screen
+4. Connect to database to save income
 
-A desktop app that helps you:
-- ✅ Track your daily expenses
-- ✅ Record your income
-- ✅ View spending reports
-- ✅ Manage your budget easily
-
----
+## Files I'll Create:

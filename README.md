@@ -1,7 +1,7 @@
 
 ---
 
-## 👑 TELERON'S README.md (YOUR BRANCH)
+## 👑 TELERON'S README.md
 
 ```markdown
 # 🎨 UI & Project Lead Guide

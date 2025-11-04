@@ -1,9 +1,8 @@
 
----
 
 ## 👑 TELERON'S README.md
 
-```markdown
+
 # 🎨 UI & Project Lead Guide
 
 ## My Responsibilities:

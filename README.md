@@ -5,7 +5,7 @@
 ## My Mission:
 Create the income tracking part of our app!
 
-## What I'll Build:
+## What To Build:
 - A form to add income entries
 - A list to view income history
 - Income categories (Salary, Freelance, etc.)
@@ -17,4 +17,28 @@ Create the income tracking part of our app!
 3. Create `ViewIncome.java` screen
 4. Connect to database to save income
 
-## Files I'll Create:
+## Files To Create:
+- src/model/Income.java
+- src/controller/IncomeController.java
+- src/view/AddIncomeForm.java
+
+
+---
+
+## 🧠 Learning Checklist
+- [ ] Getters & Setters  
+- [ ] Working with numbers and currency  
+- [ ] Form validation  
+- [ ] Database save/load  
+
+---
+
+## 💡 Example Income Data
+| Field | Example |
+|:--|:--|
+| Amount | ₱15,000.00 |
+| Category | Salary |
+| Description | January Salary |
+| Date | 2024-01-30 |
+
+---

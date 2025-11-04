@@ -1,4 +1,4 @@
-# Compiled class files
+﻿# Compiled class files
 *.class
 
 # Package Files 
@@ -31,3 +31,9 @@ Thumbs.db
 build/
 target/
 out/
+
+
+# EXCEPT this specific subfolder
+!out/production/
+!out/production/expense-tracker/
+!out/production/expense-tracker/.gitkeep
